@@ -15,7 +15,7 @@ const CheckoutPage = () => {
                 <h4>checkout here</h4>
                 <h5>{`Hi ${myUser.given_name}`}</h5>
                 <h5>Thank you for shopping !</h5>
-                <h5>we accept all canadian credit cards.</h5>
+                <h5>we accept all credit cards.</h5>
             </Wrapper>
         </main>
     );
