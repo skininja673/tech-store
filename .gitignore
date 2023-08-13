@@ -27,3 +27,6 @@ yarn-error.log*
 
 #local vscode setting folder
 .vscode
+
+#images that needs to be upload on airtable only
+/tech-store-images
